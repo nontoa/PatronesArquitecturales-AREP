@@ -48,6 +48,7 @@ Para más información visitar la página oficial de AWS. ( https://aws.amazon.c
 * Desplegar un sitio estático usando S3 [Tutorial 1](https://youtu.be/rKrSGYihZhU).
 * Configurar un VPC para gestionar la seguridad y los permisos de acceso a sus servidores [Tutorial 2](https://youtu.be/u5Jy7aAGWkc). 
 * Crear base de datos con RDS en AWS [Tutorial 3](https://youtu.be/UQy27aSQXGc).
+* Desplegar aplicación con EC2 [Tutorial 4](https://youtu.be/-ayoOywtrhY).
 
 ## Tutorial S3:
 
